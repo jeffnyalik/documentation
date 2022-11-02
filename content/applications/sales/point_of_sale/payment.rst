@@ -1,7 +1,7 @@
 :nosearch:
 
 =================
-Payment Terminals
+Payment terminals
 =================
 
 .. toctree::
@@ -12,3 +12,5 @@ Payment Terminals
    payment/vantiv
    payment/six
    payment/worldline
+   payment/stripe
+
